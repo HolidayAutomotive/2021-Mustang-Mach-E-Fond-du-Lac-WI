@@ -47,7 +47,8 @@
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
